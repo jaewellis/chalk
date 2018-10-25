@@ -1,0 +1,23 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "My chalk app",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaewellis/chalk.git"
+  },
+  "author": "Jae Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaewellis/chalk/issues"
+  },
+  "homepage": "https://github.com/jaewellis/chalk#readme"
+}
